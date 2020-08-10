@@ -1,1 +1,1 @@
-# Arduino-MIDI-Sequencer
+# Arduino MIDI Sequencer
